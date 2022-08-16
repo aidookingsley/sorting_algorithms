@@ -1,2 +1,10 @@
-# sorting_algorithms
-Sorting Algorithms and Big O  Notation
+Sorting Algorithms and Big O  
+
+
+Table of Contents
+1. Author
+
+Author
+Kingsley Mensah Aidoo
+. Twitter: @Kingsman_Dev8
+. Github: @aidookingsley
